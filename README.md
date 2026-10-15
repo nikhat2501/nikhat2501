@@ -1,161 +1,41 @@
-# 🌷 nikhat2501 — Developer Portfolio
+ <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD6D6,35:FFE8D6,70:DCD6FF,100:CDEBFF&height=220&section=header&text=nikhat2501&fontSize=65&fontColor=593D48&animation=fadeIn&fontAlignY=38&desc=Building%20things%20for%20the%20web%20%26%20exploring%20intelligent%20systems&descSize=16&descAlignY=62&descColor=684F5B" alt="Nikhat's developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:202A36,50:354A5F,100:697D86&height=220&section=header&text=nikhat2501&fontSize=64&fontColor=F1F2ED&animation=fadeIn&fontAlignY=38&desc=Building%20for%20the%20web.%20Exploring%20intelligent%20systems.&descSize=17&descAlignY=62&descColor=D2DDD9" alt="Developer profile banner"/>
 
 <br/>
 
-### ✨ Building things for the web & exploring intelligent systems <div align="center">
+**Full-Stack Development · Machine Learning · Problem Solving**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:DCE5D5,35:F0E6D6,70:D8E1EE,100:E8DDF0&height=230&section=header&text=nikhat2501&fontSize=66&fontColor=414B42&animation=fadeIn&fontAlignY=38&desc=Building%20things%20for%20the%20web%20%26%20exploring%20intelligent%20systems&descSize=16&descAlignY=62&descColor=59665C" alt="Developer header"/>
-
-<br/>
-
-*creating, breaking, learning, repeating.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=800&color=718A79&center=true&vCenter=true&width=700&height=45&lines=React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Python+%E2%80%A2+NumPy+%E2%80%A2+Pandas;ideas+deserve+implementation." alt="Typing animation"/>
+*Build. Experiment. Learn. Repeat.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-DCE5D5?style=for-the-badge&logo=react&logoColor=526C5B"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-D8E1EE?style=for-the-badge&logo=python&logoColor=536C91"/>
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-E8DDF0?style=for-the-badge&logo=bookstack&logoColor=806B92"/>
+<img src="https://img.shields.io/badge/JavaScript-E8D9A9?style=flat-square&logo=javascript&logoColor=333333"/>
+<img src="https://img.shields.io/badge/React-B9DDE8?style=flat-square&logo=react&logoColor=245566"/>
+<img src="https://img.shields.io/badge/Node.js-C6DCC6?style=flat-square&logo=nodedotjs&logoColor=315A3B"/>
+<img src="https://img.shields.io/badge/MongoDB-C6DCC6?style=flat-square&logo=mongodb&logoColor=315A3B"/>
+<img src="https://img.shields.io/badge/Python-D0DDF0?style=flat-square&logo=python&logoColor=34527A"/>
+<img src="https://img.shields.io/badge/scikit--learn-EAD8BF?style=flat-square&logo=scikitlearn&logoColor=70532C"/>
 
 </div>
 
 ---
 
-## 01 — About Me
+## 01 / About
 
 <table width="100%">
 <tr>
-<td width="100%" bgcolor="#F0EDE3" align="center">
+<td width="100%" bgcolor="#202A36">
 
 <br/>
 
-### `~/profile` — a little introduction
-
-| | |
-|:---|:---|
-| ◈ **Username** | `nikhat2501` |
-| ⌘ **Building** | Web Development |
-| ◉ **Exploring** | Machine Learning |
-| ↗ **Currently** | Learning by building real projects |
-| ✳ **Philosophy** | Ideas deserve implementation |
-
-<br/>
-
-<img src="https://img.shields.io/badge/CREATE-CBD9C5?style=for-the-badge&logoColor=374638"/>
-<img src="https://img.shields.io/badge/LEARN-D5E0EF?style=for-the-badge&logoColor=405777"/>
-<img src="https://img.shields.io/badge/BUILD-E7DCEF?style=for-the-badge&logoColor=695477"/>
-<img src="https://img.shields.io/badge/REPEAT-EFE0CB?style=for-the-badge&logoColor=6C573B"/>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 — Web Development
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E7EDE3" width="50%">
-
-### ◇ Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend technologies"/>
-
-<br/><br/>
-
-**Interfaces · Components · Styling**
-
-</td>
-<td align="center" bgcolor="#E2E9F2" width="50%">
-
-### ◇ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend technologies"/>
-
-<br/><br/>
-
-**APIs · Server logic · Databases**
-
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#F1E7D8" width="50%">
-
-### ◇ Programming
-
-<img src="https://skillicons.dev/icons?i=java,js&theme=light" alt="Programming languages"/>
-
-<br/><br/>
-
-**Java · JavaScript**
-
-</td>
-<td align="center" bgcolor="#EBE3F2" width="50%">
-
-### ◇ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Developer tools"/>
-
-<br/><br/>
-
-**Git · GitHub · VS Code**
-
-</td>
-</tr>
-</table>
-
-### What I Work With
-
-<table width="100%">
-<tr bgcolor="#DCE5D5">
-<th align="left">Category</th>
-<th align="left">Technologies</th>
-</tr>
-<tr>
-<td>Frontend</td>
-<td>HTML · CSS · JavaScript · React · Tailwind CSS</td>
-</tr>
-<tr bgcolor="#F0EDE3">
-<td>Backend</td>
-<td>Node.js · Express.js</td>
-</tr>
-<tr>
-<td>Databases</td>
-<td>MongoDB · SQL</td>
-</tr>
-<tr bgcolor="#E2E9F2">
-<td>Languages</td>
-<td>Java · JavaScript</td>
-</tr>
-<tr>
-<td>Tools</td>
-<td>Git · GitHub · VS Code</td>
-</tr>
-</table>
-
-### Selected Projects
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#F0EDE3">
-
-<br/>
-
-### ↗ Web Development
-
-Building applications and exploring full-stack development.
-
-**Tech:** React · Node.js · MongoDB
-
-*Projects will be added as they are completed.*
+<pre>
+  USER        /  nikhat2501
+  FOCUS       /  Web Development
+  EXPLORING   /  Machine Learning
+  APPROACH    /  Learn by building
+  MINDSET     /  Ideas deserve implementation
+</pre>
 
 <br/>
 
@@ -163,87 +43,54 @@ Building applications and exploring full-stack development.
 </tr>
 </table>
 
----
-
-## 03 — Machine Learning
+## 02 / Tech Stack
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#E2E9F2">
+<td width="50%" bgcolor="#E7EDF2" valign="top">
 
-<br/>
+### Web Development
 
-### ◇ Data & Intelligent Systems
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend stack"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend stack"/>
+
+<br/><br/>
+
+**Frontend**  
+HTML · CSS · JavaScript · React · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js
+
+**Database**  
+MongoDB · SQL
+
+</td>
+<td width="50%" bgcolor="#E4EAE2" valign="top">
+
+### Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NumPy-D0E2F0?style=for-the-badge&logo=numpy&logoColor=365B7A"/>
-<img src="https://img.shields.io/badge/Pandas-DCD6EE?style=for-the-badge&logo=pandas&logoColor=514182"/>
+<img src="https://img.shields.io/badge/NumPy-365B76?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-514B75?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-9C784D?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/scikit--learn-EFE0CB?style=for-the-badge&logo=scikitlearn&logoColor=80552C"/>
-<img src="https://img.shields.io/badge/Matplotlib-D3E4D8?style=for-the-badge&logo=plotly&logoColor=345C50"/>
-<img src="https://img.shields.io/badge/Seaborn-E8DDF0?style=for-the-badge&logoColor=695477"/>
+**Data Analysis**  
+NumPy · Pandas
 
-<br/><br/>
+**Visualization**  
+Matplotlib · Seaborn
 
-**Data · Patterns · Models · Insights**
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-### Learning Areas
-
-<table width="100%">
-<tr bgcolor="#D8E1EE">
-<th align="left">Area</th>
-<th align="left">Technologies & Concepts</th>
-</tr>
-<tr>
-<td>Programming</td>
-<td>Python</td>
-</tr>
-<tr bgcolor="#F0EDE3">
-<td>Data analysis</td>
-<td>NumPy · Pandas</td>
-</tr>
-<tr>
-<td>Visualization</td>
-<td>Matplotlib · Seaborn</td>
-</tr>
-<tr bgcolor="#E7EDE3">
-<td>Preprocessing</td>
-<td>Data cleaning · Data preprocessing</td>
-</tr>
-<tr>
-<td>Modelling</td>
-<td>scikit-learn · Supervised learning</td>
-</tr>
-</table>
-
-### Selected Projects
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#EBE3F2">
-
-<br/>
-
-### ↗ Machine Learning
-
-Exploring datasets, identifying patterns, and experimenting with predictive models.
-
-**Tech:** Python · Pandas · NumPy · scikit-learn
-
-*Projects will be added as they are completed.*
-
-<br/>
+**Modelling**  
+scikit-learn · Supervised Learning
 
 </td>
 </tr>
@@ -251,373 +98,122 @@ Exploring datasets, identifying patterns, and experimenting with predictive mode
 
 ---
 
-## 04 — Developer Snapshot
+## 03 / Projects & Repositories
+
+<div align="center">
+
+*Two tracks. One goal: build things that work.*
+
+</div>
 
 <table width="100%">
 <tr>
-<td bgcolor="#F0EDE3">
+<td width="50%" bgcolor="#E2EAF3" valign="top">
 
-### `nikhat2501.js`
+<div align="center">
+
+### 01 — WEB DEV
+
+**Full-Stack & Frontend**
+
+<img src="https://img.shields.io/badge/REACT-263746?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NODE.JS-263746?style=flat-square&logo=nodedotjs&logoColor=83CD8A"/>
+<img src="https://img.shields.io/badge/MONGODB-263746?style=flat-square&logo=mongodb&logoColor=83CD8A"/>
+
+</div>
+
+---
+
+**Repository 01 — Project Name**
+
+Brief description of your application and the problem it solves.
+
+`React` `Node.js` `MongoDB`
+
+[View repository →](https://github.com/nikhat2501)
+
+---
+
+**Repository 02 — Project Name**
+
+Brief description of your next web development project.
+
+`JavaScript` `Express.js`
+
+[View repository →](https://github.com/nikhat2501)
+
+---
+
+<div align="center">
+
+[Explore all web projects →](https://github.com/nikhat2501?tab=repositories)
+
+</div>
+
+</td>
+<td width="50%" bgcolor="#E5EDE4" valign="top">
+
+<div align="center">
+
+### 02 — MACHINE LEARNING
+
+**Data & Intelligent Systems**
+
+<img src="https://img.shields.io/badge/PYTHON-263746?style=flat-square&logo=python&logoColor=FFD866"/>
+<img src="https://img.shields.io/badge/PANDAS-263746?style=flat-square&logo=pandas&logoColor=C6B7F5"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-263746?style=flat-square&logo=scikitlearn&logoColor=F0C68B"/>
+
+</div>
+
+---
+
+**Repository 01 — Project Name**
+
+Brief description of the dataset, model, or prediction task.
+
+`Python` `Pandas` `scikit-learn`
+
+[View repository →](https://github.com/nikhat2501)
+
+---
+
+**Repository 02 — Project Name**
+
+Brief description of your next data science or ML experiment.
+
+`NumPy` `Matplotlib` `Seaborn`
+
+[View repository →](https://github.com/nikhat2501)
+
+---
+
+<div align="center">
+
+[Explore all ML projects →](https://github.com/nikhat2501?tab=repositories)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / Developer Snapshot
+
+<table width="100%">
+<tr>
+<td bgcolor="#202A36">
 
 ```javascript
-const nikhat2501 = {
-  headline: "Building things for the web",
-  exploring: "Intelligent systems",
+const developer = {
+  username: "nikhat2501",
 
-  web: [
-    "React",
-    "Node.js",
-    "MongoDB",
-    "JavaScript",
-    "Tailwind CSS",
-    "HTML",
-    "CSS",
-    "Express.js",
-    "SQL",
-    "Java"
+  domains: [
+    "Web Development",
+    "Machine Learning"
   ],
 
-  ml: [
-    "Python",
-    "NumPy",
-    "Pandas",
-    "scikit-learn",
-    "Matplotlib",
-    "Seaborn"
-  ],
-
-  motto: "ideas deserve implementation."
-};
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 05 — GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/nikhat2501">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=F0EDE3&title_color=536C5B&icon_color=718A79&text_color=465247&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/nikhat2501">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=E2E9F2&title_color=536C91&text_color=46566C" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=EBE3F2&stroke=D4C8E3&ring=718A79&fire=B98D65&currStreakLabel=718A79&sideLabels=695477&dates=756C7D" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhat2501&bg_color=F0EDE3&color=536C5B&line=718A79&point=B98D65&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## 06 — A Note to Self
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E7EDE3">
-
-<br/>
-
-### *"Ideas deserve implementation."*
-
-<br/>
-
-Keep building, keep learning, and trust the process.
-
-<br/>
-
-<img src="https://img.shields.io/badge/KEEP%20BUILDING-DCE5D5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KEEP%20LEARNING-D8E1EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KEEP%20GROWING-E8DDF0?style=for-the-badge"/>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:E8DDF0,30:D8E1EE,65:F0E6D6,100:DCE5D5&height=120&section=footer&text=thanks%20for%20visiting&fontSize=27&fontColor=414B42" alt="Thanks for visiting"/>
-
-*made with curiosity, code & a little creativity.*
-
-</div>
-
-
-*creating, breaking, learning, repeating.* ♡
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=C06B91&center=true&vCenter=true&width=650&height=45&lines=React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Python+%E2%80%A2+NumPy+%E2%80%A2+Pandas;Turning+ideas+into+reality;ideas+deserve+implementation." alt="Typing animation"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-FFD6E7?style=for-the-badge&logo=react&logoColor=8C4770"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-D9E9FF?style=for-the-badge&logo=python&logoColor=4267A3"/>
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-E8DDFB?style=for-the-badge&logo=bookstack&logoColor=7853A6"/>
-
-</div>
-
----
-
-## 🌸 About Me
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="100%" bgcolor="#FFF0F3" align="center">
-
-<br/>
-
-### 💗 A LITTLE ABOUT ME
-
-| | |
-|:---|:---|
-| 🎀 **Username** | `nikhat2501` |
-| 💻 **Building** | Web Development |
-| 🧠 **Exploring** | Machine Learning |
-| 🌱 **Mindset** | Learn something new every day |
-| ✨ **Philosophy** | Ideas deserve implementation |
-
-<br/>
-
-<img src="https://img.shields.io/badge/CREATE-FFC8DD?style=for-the-badge&logoColor=593D48"/>
-<img src="https://img.shields.io/badge/LEARN-CDEBFF?style=for-the-badge&logoColor=365B7A"/>
-<img src="https://img.shields.io/badge/BUILD-D9D2FF?style=for-the-badge&logoColor=5E4B8B"/>
-<img src="https://img.shields.io/badge/REPEAT-FFE5C2?style=for-the-badge&logoColor=805B30"/>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 My Tech Universe
-
-<div align="center">
-
-### 💻 Web Development
-
-<table width="100%">
-<tr>
-<td align="center" width="50%" bgcolor="#FFF0F5">
-
-### 🌷 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="HTML, CSS, JavaScript, React and Tailwind CSS"/>
-
-</td>
-<td align="center" width="50%" bgcolor="#EAF4FF">
-
-### 🪻 Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Node.js, Express and MongoDB"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" bgcolor="#FFF3E5">
-
-### 🍑 Languages
-
-<img src="https://skillicons.dev/icons?i=java,js&theme=light" alt="Java and JavaScript"/>
-
-</td>
-<td align="center" width="50%" bgcolor="#F0E9FF">
-
-### 💜 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub and VS Code"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/HTML-EA806C?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-7BADE2?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E8C65B?style=flat-square&logo=javascript&logoColor=333"/>
-<img src="https://img.shields.io/badge/React-70CBE5?style=flat-square&logo=react&logoColor=173D50"/>
-<img src="https://img.shields.io/badge/Node.js-8BBF89?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-74B99A?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-8CCED9?style=flat-square&logo=tailwindcss&logoColor=244D56"/>
-<img src="https://img.shields.io/badge/Express.js-C9B6D8?style=flat-square&logo=express&logoColor=333"/>
-<img src="https://img.shields.io/badge/SQL-91A9DE?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-E7A77B?style=flat-square&logo=openjdk&logoColor=white"/>
-
-</div>
-
-### 🧩 What I Work With
-
-<table width="100%">
-<tr bgcolor="#FCE4EC">
-<th align="left">Category</th>
-<th align="left">Technologies</th>
-</tr>
-<tr>
-<td>🎨 Frontend</td>
-<td>HTML, CSS, JavaScript, React, Tailwind CSS</td>
-</tr>
-<tr bgcolor="#FFF4E8">
-<td>⚙️ Backend</td>
-<td>Node.js, Express.js</td>
-</tr>
-<tr>
-<td>🗄️ Databases</td>
-<td>MongoDB, SQL</td>
-</tr>
-<tr bgcolor="#F0E9FF">
-<td>☕ Languages</td>
-<td>Java, JavaScript</td>
-</tr>
-<tr>
-<td>🛠️ Tools</td>
-<td>Git, GitHub, VS Code</td>
-</tr>
-</table>
-
----
-
-## 🧠 Machine Learning
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E9F5FF">
-
-### 🩵 Data & Intelligence
-
-<img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-B9DDF5?style=for-the-badge&logo=numpy&logoColor=365B7A"/>
-<img src="https://img.shields.io/badge/Pandas-CFC5F5?style=for-the-badge&logo=pandas&logoColor=514182"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7D5A8?style=for-the-badge&logo=scikitlearn&logoColor=8A592D"/>
-<img src="https://img.shields.io/badge/Matplotlib-F8C9D7?style=for-the-badge&logo=plotly&logoColor=8B4663"/>
-<img src="https://img.shields.io/badge/Seaborn-C9E8DC?style=for-the-badge&logoColor=345C50"/>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🔬 My Learning Areas
-
-<table width="100%">
-<tr bgcolor="#E5F3FF">
-<th align="left">Area</th>
-<th align="left">Technologies & Concepts</th>
-</tr>
-<tr>
-<td>🐍 Programming</td>
-<td>Python</td>
-</tr>
-<tr bgcolor="#F0E9FF">
-<td>📊 Data Analysis</td>
-<td>NumPy, Pandas</td>
-</tr>
-<tr>
-<td>📈 Visualization</td>
-<td>Matplotlib, Seaborn</td>
-</tr>
-<tr bgcolor="#FFF0E5">
-<td>🧹 Data Preparation</td>
-<td>Data preprocessing</td>
-</tr>
-<tr>
-<td>🤖 Modelling</td>
-<td>scikit-learn, supervised learning</td>
-</tr>
-</table>
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" bgcolor="#FFF0F5">
-
-### 💻 Web Projects
-
-<img src="https://img.shields.io/badge/REACT-FFC9DD?style=for-the-badge&logo=react&logoColor=593D48"/>
-<img src="https://img.shields.io/badge/NODE.JS-D6EAD4?style=for-the-badge&logo=nodedotjs&logoColor=355D38"/>
-
-<br/><br/>
-
-*Building applications that solve real-world problems.*
-
-<br/>
-
-**More projects coming soon ♡**
-
-</td>
-<td width="50%" align="center" bgcolor="#EAF4FF">
-
-### 🧠 ML Projects
-
-<img src="https://img.shields.io/badge/PYTHON-CDEBFF?style=for-the-badge&logo=python&logoColor=365B7A"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7D5A8?style=for-the-badge&logo=scikitlearn&logoColor=80552C"/>
-
-<br/><br/>
-
-*Exploring data, patterns and intelligent systems.*
-
-<br/>
-
-**More projects coming soon ♡**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 💡 **Tip:** Replace these placeholders with your real projects and repository links as you build them.
-
----
-
-## 📸 GitHub Snapshot
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#F0E9FF">
-
-### 🌷 My Developer Identity
-
-```javascript
-const nikhat2501 = {
-  headline: "Building things for the web",
-  exploring: "Intelligent systems",
   web: [
     "React",
     "Node.js",
@@ -625,6 +221,7 @@ const nikhat2501 = {
     "JavaScript",
     "Tailwind CSS"
   ],
+
   ml: [
     "Python",
     "NumPy",
@@ -633,7 +230,8 @@ const nikhat2501 = {
     "Matplotlib",
     "Seaborn"
   ],
-  motto: "ideas deserve implementation."
+
+  philosophy: "Ideas deserve implementation."
 };
 ```
 
@@ -641,49 +239,25 @@ const nikhat2501 = {
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
+## 05 / GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/nikhat2501">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C06B91&icon_color=8B79C6&text_color=654D5A&rank_icon=github" alt="GitHub statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=E7EDF2&title_color=354A5F&icon_color=607D8B&text_color=34424D" alt="GitHub statistics"/>
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/nikhat2501">
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=6&hide_border=true&bg_color=EAF4FF&title_color=658CC4&text_color=4C6079" alt="Most used programming languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=E4EAE2&title_color=42644C&text_color=34483A" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=FFF4E8&stroke=E7C5D1&ring=C06B91&fire=E7A77B&currStreakLabel=C06B91&sideLabels=765B68&dates=987D89" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhat2501&bg_color=F0E9FF&color=775E91&line=C06B91&point=E7A77B&area=true&hide_border=true" alt="GitHub contribution graph"/>
-
-</div>
-
----
-
-## 🌈 A Little Reminder
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E7,25:FFE8D6,50:DCD6FF,75:CDEBFF,100:D6F2E5&height=150&section=header&text=%22ideas%20deserve%20implementation.%22&fontSize=24&fontColor=593D48&animation=fadeIn" alt="Ideas deserve implementation"/>
-
-### ♡ same girl, bigger goals ♡
-
-*Every bug is a lesson. Every project is progress.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/KEEP-BUILDING-FFD6E7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KEEP-LEARNING-DCD6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KEEP-GROWING-CDEBFF?style=for-the-badge"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=202A36&ring=8DA8B8&fire=D8B778&currStreakLabel=E7EDF2&sideLabels=E7EDF2&dates=AEBCC7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
 
@@ -691,8 +265,10 @@ const nikhat2501 = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE8D6,50:FFD6E7,100:DCD6FF&height=110&section=footer&text=thanks%20for%20visiting%20%E2%99%A1&fontSize=24&fontColor=593D48" alt="Thanks for visiting"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:697D86,50:354A5F,100:202A36&height=100&section=footer&text=BUILD%20SOMETHING%20USEFUL.&fontSize=24&fontColor=F1F2ED" alt="Footer banner"/>
 
-**Made with curiosity, code & a little bit of pink. 🌷**
+**Less scrolling through tutorials. More building.**
+
+[GitHub](https://github.com/nikhat2501) · [Repositories](https://github.com/nikhat2501?tab=repositories)
 
 </div>
