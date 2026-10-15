@@ -1,43 +1,48 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:202A36,50:354A5F,100:697D86&height=220&section=header&text=nikhat2501&fontSize=64&fontColor=F1F2ED&animation=fadeIn&fontAlignY=38&desc=Building%20for%20the%20web.%20Exploring%20intelligent%20systems.&descSize=17&descAlignY=62&descColor=D2DDD9" alt="Developer profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EEE9DF,50:D8D4C5,100:A9AD91&height=180&section=header&text=nikhat2501&fontSize=58&fontColor=45483B&fontAlignY=42&animation=fadeIn" alt="nikhat2501"/>
 
 <br/>
 
-**Full-Stack Development · Machine Learning · Problem Solving**
+### Building things for the web & exploring intelligent systems
 
-*Build. Experiment. Learn. Repeat.*
+*creating, breaking, learning, repeating.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/JavaScript-E8D9A9?style=flat-square&logo=javascript&logoColor=333333"/>
-<img src="https://img.shields.io/badge/React-B9DDE8?style=flat-square&logo=react&logoColor=245566"/>
-<img src="https://img.shields.io/badge/Node.js-C6DCC6?style=flat-square&logo=nodedotjs&logoColor=315A3B"/>
-<img src="https://img.shields.io/badge/MongoDB-C6DCC6?style=flat-square&logo=mongodb&logoColor=315A3B"/>
-<img src="https://img.shields.io/badge/Python-D0DDF0?style=flat-square&logo=python&logoColor=34527A"/>
-<img src="https://img.shields.io/badge/scikit--learn-EAD8BF?style=flat-square&logo=scikitlearn&logoColor=70532C"/>
+[GitHub](https://github.com/nikhat2501) · Web Development · Machine Learning
 
 </div>
 
 ---
 
-## 01 / About
+## About
+
+I'm an aspiring developer interested in building useful web applications and exploring intelligent systems. I enjoy learning new technologies, solving problems, and turning ideas into working projects.
 
 <table width="100%">
 <tr>
-<td width="100%" bgcolor="#202A36">
+<td width="50%" valign="top">
 
-<br/>
+**Web Development**
 
-<pre>
-  USER        /  nikhat2501
-  FOCUS       /  Web Development
-  EXPLORING   /  Machine Learning
-  APPROACH    /  Learn by building
-  MINDSET     /  Ideas deserve implementation
-</pre>
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Node.js, Express.js
+- MongoDB, SQL
+- Git & GitHub
 
-<br/>
+</td>
+<td width="50%" valign="top">
+
+**Machine Learning**
+
+- Python
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- scikit-learn
+- Data preprocessing
+- Supervised learning
 
 </td>
 </tr>
@@ -45,153 +50,52 @@
 
 ---
 
-## 02 / Tech Stack
+## Projects
 
 <table width="100%">
 <tr>
-<td width="50%" bgcolor="#E7EDF2" valign="top">
+<td width="50%" valign="top" bgcolor="#F0EDE5">
+
+<div align="center">
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend technologies"/>
+*Applications, interfaces & backend systems*
 
-<br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend technologies"/>
+---
 
-<br/><br/>
+**Repositories**
 
-**Frontend**
+Explore my web development projects, source code, and experiments.
 
-HTML · CSS · JavaScript · React · Tailwind CSS
+<div align="center">
 
-**Backend**
+[View Web Repositories ↗](https://github.com/nikhat2501?tab=repositories)
 
-Node.js · Express.js
-
-**Databases**
-
-MongoDB · SQL
+</div>
 
 </td>
-<td width="50%" bgcolor="#E4EAE2" valign="top">
+<td width="50%" valign="top" bgcolor="#E8E9DF">
+
+<div align="center">
 
 ### Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-365B76?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-514B75?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-9C784D?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-<br/><br/>
-
-**Data Analysis**
-
-NumPy · Pandas
-
-**Visualization**
-
-Matplotlib · Seaborn
-
-**Modelling**
-
-scikit-learn · Supervised Learning
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / Projects & Repositories
-
-<div align="center">
-
-*Two tracks. One goal: build things that work.*
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" bgcolor="#E2EAF3" valign="top">
-
-<div align="center">
-
-### WEB DEVELOPMENT
-
-<img src="https://img.shields.io/badge/FRONTEND-354A5F?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/BACKEND-354A5F?style=flat-square&logo=nodedotjs&logoColor=83CD8A"/>
+*Data analysis, visualisation & predictive models*
 
 </div>
 
 ---
 
-**01 — Project Name**
+**Repositories**
 
-A short description of the application and the problem it solves.
-
-`React` `Node.js` `MongoDB`
-
-[View repository →](https://github.com/nikhat2501?tab=repositories)
-
----
-
-**02 — Project Name**
-
-A short description of another web development project.
-
-`JavaScript` `Express.js`
-
-[View repository →](https://github.com/nikhat2501?tab=repositories)
-
----
+Explore my machine learning projects, data experiments, and model implementations.
 
 <div align="center">
 
-[**Explore Web Repositories ↗**](https://github.com/nikhat2501?tab=repositories)
-
-</div>
-
-</td>
-<td width="50%" bgcolor="#E5EDE4" valign="top">
-
-<div align="center">
-
-### MACHINE LEARNING
-
-<img src="https://img.shields.io/badge/DATA-354A5F?style=flat-square&logo=python&logoColor=FFD866"/>
-<img src="https://img.shields.io/badge/MODELS-354A5F?style=flat-square&logo=scikitlearn&logoColor=F0C68B"/>
-
-</div>
-
----
-
-**01 — Project Name**
-
-A short description of the dataset, model, or prediction task.
-
-`Python` `Pandas` `scikit-learn`
-
-[View repository →](https://github.com/nikhat2501?tab=repositories)
-
----
-
-**02 — Project Name**
-
-A short description of another data science experiment.
-
-`NumPy` `Matplotlib` `Seaborn`
-
-[View repository →](https://github.com/nikhat2501?tab=repositories)
-
----
-
-<div align="center">
-
-[**Explore ML Repositories ↗**](https://github.com/nikhat2501?tab=repositories)
+[View ML Repositories ↗](https://github.com/nikhat2501?tab=repositories)
 
 </div>
 
@@ -201,86 +105,28 @@ A short description of another data science experiment.
 
 ---
 
-## 04 / Developer Snapshot
-
-<table width="100%">
-<tr>
-<td bgcolor="#202A36">
-
-```javascript
-const developer = {
-  username: "nikhat2501",
-
-  domains: [
-    "Web Development",
-    "Machine Learning"
-  ],
-
-  web: [
-    "React",
-    "Node.js",
-    "MongoDB",
-    "JavaScript",
-    "Tailwind CSS"
-  ],
-
-  ml: [
-    "Python",
-    "NumPy",
-    "Pandas",
-    "scikit-learn",
-    "Matplotlib",
-    "Seaborn"
-  ],
-
-  philosophy: "Ideas deserve implementation."
-};
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 05 / GitHub Overview
+## GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/nikhat2501">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=E7EDF2&title_color=354A5F&icon_color=607D8B&text_color=34424D&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=F0EDE5&title_color=666B50&icon_color=858A6A&text_color=494A40" alt="GitHub statistics"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/nikhat2501">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=202A36&ring=8DA8B8&fire=D8B778&currStreakLabel=E7EDF2&sideLabels=E7EDF2&dates=AEBCC7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=10&hide_border=true&bg_color=E8E9DF&title_color=666B50&text_color=494A40&card_width=500" alt="Most used languages across repositories"/>
 </a>
 
 </div>
 
 ---
 
-## 06 / Languages Across My Repositories
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=10&hide_border=true&bg_color=E4EAE2&title_color=42644C&text_color=34483A&card_width=600" alt="Most used programming languages across repositories"/>
+*Ideas deserve implementation.*
 
-<br/>
-
-<sub>Automatically generated from the languages detected in your public GitHub repositories.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:697D86,50:354A5F,100:202A36&height=110&section=footer&text=BUILD%20SOMETHING%20USEFUL.&fontSize=24&fontColor=F1F2ED" alt="Footer banner"/>
-
-**Less scrolling through tutorials. More building.**
-
-[GitHub Profile](https://github.com/nikhat2501) · [All Repositories](https://github.com/nikhat2501?tab=repositories)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A9AD91,50:D8D4C5,100:EEE9DF&height=75&section=footer" alt=""/>
 
 </div>
