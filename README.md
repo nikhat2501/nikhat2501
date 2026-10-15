@@ -6,7 +6,356 @@
 
 <br/>
 
-### ✨ Building things for the web & exploring intelligent systems
+### ✨ Building things for the web & exploring intelligent systems <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:DCE5D5,35:F0E6D6,70:D8E1EE,100:E8DDF0&height=230&section=header&text=nikhat2501&fontSize=66&fontColor=414B42&animation=fadeIn&fontAlignY=38&desc=Building%20things%20for%20the%20web%20%26%20exploring%20intelligent%20systems&descSize=16&descAlignY=62&descColor=59665C" alt="Developer header"/>
+
+<br/>
+
+*creating, breaking, learning, repeating.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=800&color=718A79&center=true&vCenter=true&width=700&height=45&lines=React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Python+%E2%80%A2+NumPy+%E2%80%A2+Pandas;ideas+deserve+implementation." alt="Typing animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-DCE5D5?style=for-the-badge&logo=react&logoColor=526C5B"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-D8E1EE?style=for-the-badge&logo=python&logoColor=536C91"/>
+<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-E8DDF0?style=for-the-badge&logo=bookstack&logoColor=806B92"/>
+
+</div>
+
+---
+
+## 01 — About Me
+
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#F0EDE3" align="center">
+
+<br/>
+
+### `~/profile` — a little introduction
+
+| | |
+|:---|:---|
+| ◈ **Username** | `nikhat2501` |
+| ⌘ **Building** | Web Development |
+| ◉ **Exploring** | Machine Learning |
+| ↗ **Currently** | Learning by building real projects |
+| ✳ **Philosophy** | Ideas deserve implementation |
+
+<br/>
+
+<img src="https://img.shields.io/badge/CREATE-CBD9C5?style=for-the-badge&logoColor=374638"/>
+<img src="https://img.shields.io/badge/LEARN-D5E0EF?style=for-the-badge&logoColor=405777"/>
+<img src="https://img.shields.io/badge/BUILD-E7DCEF?style=for-the-badge&logoColor=695477"/>
+<img src="https://img.shields.io/badge/REPEAT-EFE0CB?style=for-the-badge&logoColor=6C573B"/>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 — Web Development
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#E7EDE3" width="50%">
+
+### ◇ Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend technologies"/>
+
+<br/><br/>
+
+**Interfaces · Components · Styling**
+
+</td>
+<td align="center" bgcolor="#E2E9F2" width="50%">
+
+### ◇ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend technologies"/>
+
+<br/><br/>
+
+**APIs · Server logic · Databases**
+
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#F1E7D8" width="50%">
+
+### ◇ Programming
+
+<img src="https://skillicons.dev/icons?i=java,js&theme=light" alt="Programming languages"/>
+
+<br/><br/>
+
+**Java · JavaScript**
+
+</td>
+<td align="center" bgcolor="#EBE3F2" width="50%">
+
+### ◇ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Developer tools"/>
+
+<br/><br/>
+
+**Git · GitHub · VS Code**
+
+</td>
+</tr>
+</table>
+
+### What I Work With
+
+<table width="100%">
+<tr bgcolor="#DCE5D5">
+<th align="left">Category</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td>Frontend</td>
+<td>HTML · CSS · JavaScript · React · Tailwind CSS</td>
+</tr>
+<tr bgcolor="#F0EDE3">
+<td>Backend</td>
+<td>Node.js · Express.js</td>
+</tr>
+<tr>
+<td>Databases</td>
+<td>MongoDB · SQL</td>
+</tr>
+<tr bgcolor="#E2E9F2">
+<td>Languages</td>
+<td>Java · JavaScript</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td>Git · GitHub · VS Code</td>
+</tr>
+</table>
+
+### Selected Projects
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#F0EDE3">
+
+<br/>
+
+### ↗ Web Development
+
+Building applications and exploring full-stack development.
+
+**Tech:** React · Node.js · MongoDB
+
+*Projects will be added as they are completed.*
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 — Machine Learning
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#E2E9F2">
+
+<br/>
+
+### ◇ Data & Intelligent Systems
+
+<img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-D0E2F0?style=for-the-badge&logo=numpy&logoColor=365B7A"/>
+<img src="https://img.shields.io/badge/Pandas-DCD6EE?style=for-the-badge&logo=pandas&logoColor=514182"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/scikit--learn-EFE0CB?style=for-the-badge&logo=scikitlearn&logoColor=80552C"/>
+<img src="https://img.shields.io/badge/Matplotlib-D3E4D8?style=for-the-badge&logo=plotly&logoColor=345C50"/>
+<img src="https://img.shields.io/badge/Seaborn-E8DDF0?style=for-the-badge&logoColor=695477"/>
+
+<br/><br/>
+
+**Data · Patterns · Models · Insights**
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+### Learning Areas
+
+<table width="100%">
+<tr bgcolor="#D8E1EE">
+<th align="left">Area</th>
+<th align="left">Technologies & Concepts</th>
+</tr>
+<tr>
+<td>Programming</td>
+<td>Python</td>
+</tr>
+<tr bgcolor="#F0EDE3">
+<td>Data analysis</td>
+<td>NumPy · Pandas</td>
+</tr>
+<tr>
+<td>Visualization</td>
+<td>Matplotlib · Seaborn</td>
+</tr>
+<tr bgcolor="#E7EDE3">
+<td>Preprocessing</td>
+<td>Data cleaning · Data preprocessing</td>
+</tr>
+<tr>
+<td>Modelling</td>
+<td>scikit-learn · Supervised learning</td>
+</tr>
+</table>
+
+### Selected Projects
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#EBE3F2">
+
+<br/>
+
+### ↗ Machine Learning
+
+Exploring datasets, identifying patterns, and experimenting with predictive models.
+
+**Tech:** Python · Pandas · NumPy · scikit-learn
+
+*Projects will be added as they are completed.*
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 — Developer Snapshot
+
+<table width="100%">
+<tr>
+<td bgcolor="#F0EDE3">
+
+### `nikhat2501.js`
+
+```javascript
+const nikhat2501 = {
+  headline: "Building things for the web",
+  exploring: "Intelligent systems",
+
+  web: [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "JavaScript",
+    "Tailwind CSS",
+    "HTML",
+    "CSS",
+    "Express.js",
+    "SQL",
+    "Java"
+  ],
+
+  ml: [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "scikit-learn",
+    "Matplotlib",
+    "Seaborn"
+  ],
+
+  motto: "ideas deserve implementation."
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 — GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/nikhat2501">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=F0EDE3&title_color=536C5B&icon_color=718A79&text_color=465247&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/nikhat2501">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=E2E9F2&title_color=536C91&text_color=46566C" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=EBE3F2&stroke=D4C8E3&ring=718A79&fire=B98D65&currStreakLabel=718A79&sideLabels=695477&dates=756C7D" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhat2501&bg_color=F0EDE3&color=536C5B&line=718A79&point=B98D65&area=true&hide_border=true" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 06 — A Note to Self
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#E7EDE3">
+
+<br/>
+
+### *"Ideas deserve implementation."*
+
+<br/>
+
+Keep building, keep learning, and trust the process.
+
+<br/>
+
+<img src="https://img.shields.io/badge/KEEP%20BUILDING-DCE5D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KEEP%20LEARNING-D8E1EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KEEP%20GROWING-E8DDF0?style=for-the-badge"/>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:E8DDF0,30:D8E1EE,65:F0E6D6,100:DCE5D5&height=120&section=footer&text=thanks%20for%20visiting&fontSize=27&fontColor=414B42" alt="Thanks for visiting"/>
+
+*made with curiosity, code & a little creativity.*
+
+</div>
+
 
 *creating, breaking, learning, repeating.* ♡
 
