@@ -1,300 +1,336 @@
-<!-- ==================== HERO ==================== -->
+<!-- ╭────────────────── HERO ──────────────────╮ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F1EDE4&height=190&section=header&text=Nikhat%20Parveen&fontSize=52&fontColor=56594A&fontAlignY=43&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Curious%20Mind&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
-
-<br/>
-
-### Building things for the web & exploring intelligent systems.
-
-*Turning curiosity into code, ideas into projects, and problems into opportunities to learn.*
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E6,35:E9D5FF,70:D1FAE5,100:FEF3C7&height=220&section=header&text=Nikhat%20Parveen&fontSize=48&fontColor=493D59&fontAlignY=38&desc=building%20ideas%20into%20reality%20%E2%9C%A6&descSize=17&descAlignY=59&animation=twinkling" />
 
 <a href="https://github.com/nikhat2501">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-56594A?style=for-the-badge&logo=github&logoColor=F1EDE4" />
+<img src="https://img.shields.io/badge/✿%20WEB%20DEVELOPMENT-FFE4E6?style=for-the-badge&labelColor=FFE4E6&color=FFE4E6" />
 </a>
 <a href="https://github.com/nikhat2501?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Discover%20projects-858A6A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/✦%20MACHINE%20LEARNING-E9D5FF?style=for-the-badge&labelColor=E9D5FF&color=E9D5FF" />
+</a>
+<a href="https://github.com/nikhat2501?tab=repositories">
+<img src="https://img.shields.io/badge/☁%20MY%20PROJECTS-D1FAE5?style=for-the-badge&labelColor=D1FAE5&color=D1FAE5" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=777B62&center=true&vCenter=true&width=650&lines=Learning+by+building.;Exploring+web+development.;Experimenting+with+machine+learning.;Writing+code%2C+one+problem+at+a+time." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2400&pause=700&color=9B6BB3&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+world!%22);Building+things+for+the+web+%F0%9F%8C%B7;Exploring+intelligent+systems+%F0%9F%A7%A0;Learning.+Building.+Repeating.+%E2%9C%A8" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-493D59?style=flat-square&logo=github&logoColor=white)](https://github.com/nikhat2501)
+[![Repositories](https://img.shields.io/badge/Repositories-FFB4C8?style=flat-square&logo=github&logoColor=493D59)](https://github.com/nikhat2501?tab=repositories)
 
 </div>
 
 ---
 
-## 01 / A little about me
+<div align="center">
 
-Hey! I'm **Nikhat**, a developer who enjoys exploring how technology works and using it to build things that are useful, intuitive, and interesting.
+## ✿  A LITTLE ABOUT ME  ✿
 
-I'm interested in the intersection of **web development, problem-solving, and intelligent systems**. I like understanding what happens behind the interface just as much as creating the interface itself — from designing a responsive frontend to connecting APIs, working with databases, and experimenting with data.
+**Curious mind. Creative builder. Forever learning.**
 
-I'm still learning, experimenting, and figuring things out. I believe the best way to grow as a developer is to build things, make mistakes, understand why they happen, and try again.
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Currently exploring</h3>
-      <ul>
-        <li>Building full-stack web applications</li>
-        <li>Developing with React and Node.js</li>
-        <li>Working with databases and REST APIs</li>
-        <li>Learning machine learning workflows</li>
-        <li>Improving problem-solving and Java skills</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>What matters to me</h3>
-      <ul>
-        <li>Writing understandable, maintainable code</li>
-        <li>Learning concepts instead of memorizing syntax</li>
-        <li>Building projects that solve real problems</li>
-        <li>Exploring ideas beyond the classroom</li>
-        <li>Getting a little better with every project</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="58%" valign="top">
 
-> I don't need to know everything to start building. I just need to be willing to learn what comes next.
+### Hey, I'm Nikhat! ♡
+
+I'm exploring the world of software development, one project and one bug at a time.
+
+- 🌷 Building for the web with React and Node.js
+- 🧠 Exploring data science and machine learning
+- 💻 Practising algorithms and problem-solving in Java
+- 🍃 Learning by experimenting, not just memorizing
+- ✨ Turning little ideas into real applications
+
+</td>
+<td width="42%" valign="top">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,git&perline=3&theme=light" />
+
+<br/><br/>
+
+**CURRENT MOOD**
+
+`building things` 🌸
+
+`debugging things` 🪻
+
+`learning things` 🌱
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 02 / My developer toolkit
+<div align="center">
 
-I enjoy working across different parts of the development process — from structuring a webpage to building backend logic and exploring datasets.
+## 🎨 MY TECH UNIVERSE
+
+*Different tools, different ideas, one curious developer.*
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td align="center" width="50%">
 
-### ◇ Web development
+<img src="https://img.shields.io/badge/01-FRONTEND-FFE4E6?style=for-the-badge" />
 
-**Frontend**
+### 🌸 Web & UI
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
 
-**Backend & databases**
+**Building the experience**
+
+Responsive interfaces · Components · Styling · User experiences
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02-BACKEND-D1FAE5?style=for-the-badge" />
+
+### 🌿 Server & data
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light" />
 
-**Tools**
+**Making things work**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+APIs · Server-side logic · Database operations · Authentication
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center">
 
-### ◇ Machine learning & data
+<img src="https://img.shields.io/badge/03-PROGRAMMING-DBEAFE?style=for-the-badge" />
 
-**Languages**
+### 💙 Logic & algorithms
 
-<img src="https://skillicons.dev/icons?i=python,java&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=light" />
 
-**Data & analysis**
+**Thinking in code**
 
-- NumPy and Pandas
-- Matplotlib and Seaborn
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Scikit-learn fundamentals
-- Supervised learning concepts
+Data structures · Algorithms · Problem-solving · Clean logic
 
-**Focus:** Understanding data, preparing features, training models, and learning how to evaluate results.
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/04-INTELLIGENT%20SYSTEMS-E9D5FF?style=for-the-badge" />
+
+### 🪻 ML & data
+
+<img src="https://skillicons.dev/icons?i=python&theme=light" />
+
+**Finding patterns**
+
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn
 
 </td>
 </tr>
 </table>
-
-### The stack, in a nutshell
-
-| Area | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, SQL |
-| Programming | Java, Python |
-| Data science | NumPy, Pandas, Matplotlib, Seaborn |
-| Machine learning | Scikit-learn and preprocessing workflows |
-| Development tools | Git, GitHub, VS Code |
-
----
-
-## 03 / What I'm building toward
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>01 — Web development</h3>
-
-<img src="https://img.shields.io/badge/FOCUS-Full--stack%20development-E8E4D9?style=flat-square&labelColor=777B62" />
-
-Building the bridge between what users see and what happens behind the scenes.
-
-**What I'm interested in**
-- Responsive and thoughtful UI design
-- React components and frontend architecture
-- REST APIs and backend development
-- Authentication and database integration
-- Turning ideas into usable applications
-
-<br/>
-
-<a href="https://github.com/nikhat2501?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20web%20projects-56594A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02 — Machine learning</h3>
-
-<img src="https://img.shields.io/badge/FOCUS-Data%20%26%20intelligent%20systems-E8E4D9?style=flat-square&labelColor=777B62" />
-
-Exploring how data can reveal patterns and help solve practical problems.
-
-**What I'm interested in**
-- Data analysis and visualization
-- Data cleaning and preprocessing
-- Feature preparation and scaling
-- Training and evaluating models
-- Understanding algorithms through experiments
-
-<br/>
-
-<a href="https://github.com/nikhat2501?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20ML%20projects-56594A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/TOOLS-Git%20%7C%20GitHub%20%7C%20VS%20Code-FEF3C7?style=for-the-badge&labelColor=FDE68A&color=FEF3C7" />
 
 </div>
 
 ---
 
-## 04 / Project corner
+<div align="center">
 
-A developer's profile should tell a story through the things they build — not just the technologies they list.
+## 🪄 THE THINGS I LOVE BUILDING
 
-Here are the two areas where I want my work to stand out. The links below open my repositories, so visitors can explore the projects that are actually available.
+*Two sides of my developer brain.*
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### Web development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFE4E6&height=90&text=%E2%9C%BF%20WEB%20DEVELOPMENT&fontSize=21&fontColor=75465E" />
 
-**Interfaces, applications & APIs**
+### From idea → interface → application
 
-From frontend components to backend logic, this space is for projects that bring an idea to life through code.
+I enjoy connecting frontend experiences to backend logic and data.
 
-- Frontend experiments
-- Full-stack application development
-- API and database integration
-- Practical problem-solving
+**My playground**
 
-**Browse the collection**
+- React interfaces
+- Full-stack applications
+- REST API integration
+- MongoDB and SQL
+- Authentication workflows
 
-<a href="https://github.com/nikhat2501?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-777B62?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**The goal:** applications that feel good to use and make sense under the hood.
+
+<br/>
+
+[![Explore web projects](https://img.shields.io/badge/EXPLORE%20PROJECTS-DB7093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhat2501?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### Machine learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=90&text=%E2%9C%A6%20MACHINE%20LEARNING&fontSize=19&fontColor=5B4775" />
 
-**Data, experiments & intelligent systems**
+### From raw data → useful insights
 
-From exploring datasets to understanding predictive models, this space is for learning how data-driven systems work.
+I'm exploring how data preparation, algorithms, and evaluation fit together.
 
-- Data analysis and visualization
-- Preprocessing experiments
-- Model training and evaluation
-- Python-based exploration
+**My playground**
 
-**Browse the collection**
+- Data cleaning and analysis
+- Visualization and exploration
+- Feature preprocessing
+- Model training
+- Learning evaluation techniques
 
-<a href="https://github.com/nikhat2501?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-777B62?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**The goal:** understand how intelligent systems learn from data.
+
+<br/>
+
+[![Explore ML projects](https://img.shields.io/badge/EXPLORE%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhat2501?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-*As projects grow, this section can evolve into a curated showcase with individual project descriptions, screenshots, tech stacks, and live demos.*
-
 ---
-
-## 05 / GitHub at a glance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=F1EDE4&title_color=56594A&icon_color=858A6A&text_color=494A40&rank_icon=github" alt="GitHub statistics" />
+## 💻 INSIDE MY DEVELOPER WORKSPACE
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=E8E9DF&title_color=56594A&text_color=494A40" alt="Most used programming languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=nikhat2501&hide_border=true&background=F1EDE4&ring=858A6A&fire=B59A7A&currStreakLabel=56594A&sideLabels=56594A&currStreakNum=494A40&sideNums=494A40&dates=777B62" alt="GitHub contribution streak" width="75%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhat2501&bg_color=F1EDE4&color=56594A&line=858A6A&point=B59A7A&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://img.shields.io/badge/01-LEARN-DBEAFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-EXPERIMENT-D1FAE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-DEBUG-FFE4E6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-REPEAT-E9D5FF?style=for-the-badge" />
 
 </div>
 
-<sub>Stats and activity cards are generated by third-party services. Their availability and displayed metrics may vary.</sub>
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧩
+
+**Problem-solving**
+
+Breaking big problems into smaller, manageable steps.
+
+</td>
+<td width="33%" align="center">
+
+### 🛠️
+
+**Building**
+
+Turning what I learn into practical experiments and projects.
+
+</td>
+<td width="33%" align="center">
+
+### 🌱
+
+**Growing**
+
+Improving through mistakes, feedback, and consistency.
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 06 / Beyond the code
-
-I think being a good developer is about more than knowing a framework. It's about learning how to think, how to break down a problem, and how to keep going when the first solution doesn't work.
-
-Right now, I'm focused on:
-
-- **Learning deeply** — understanding the why behind the code.
-- **Building consistently** — turning concepts into practical projects.
-- **Solving problems** — improving my logic one challenge at a time.
-- **Exploring widely** — staying curious about new tools and ideas.
-- **Growing deliberately** — treating every bug, experiment, and project as a lesson.
-
-I'm excited about the journey from writing my first version of something to building a version I'm genuinely proud of.
-
----
-
-## 07 / Let's connect
-
-Have an interesting project, a useful resource, or an idea worth exploring? I'd love to discover it.
 
 <div align="center">
 
-<a href="https://github.com/nikhat2501">
-  <img src="https://img.shields.io/badge/GitHub-56594A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/nikhat2501?tab=repositories">
-  <img src="https://img.shields.io/badge/My%20repositories-858A6A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## 📊 MY GITHUB WORLD
+
+*Every commit is a little piece of progress.*
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=FFF1F2&title_color=BE6486&icon_color=8B5CF6&text_color=51445E&ring_color=8B5CF6" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=F3E8FF&title_color=8B5CF6&text_color=51445E" />
 
 <br/><br/>
 
-### A little progress, every day.
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhat2501&bg_color=FFF7ED&color=8B5CF6&line=EC4899&point=10B981&area=true&hide_border=true&custom_title=My%20Contribution%20Garden" />
 
-*Ideas deserve implementation. Curiosity deserves exploration.*
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=nikhat2501&hide_border=true&background=F0FDF4&ring=10B981&fire=F97316&currStreakLabel=047857&sideLabels=047857&currStreakNum=166534&sideNums=166534&dates=64748B" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9DF&height=90&section=footer&text=Keep%20building.%20Keep%20learning.&fontSize=22&fontColor=56594A&animation=fadeIn" width="100%" />
+<sub>Cards load from external services. If one doesn't display, the service may be temporarily unavailable or rate-limited.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌷 THE NEXT CHAPTER
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 Currently learning**
+
+- Stronger full-stack fundamentals
+- Better Java problem-solving
+- Machine learning workflows
+- Writing more maintainable code
+
+</td>
+<td width="50%" valign="top">
+
+**✨ Working toward**
+
+- More complete personal projects
+- Better software design
+- Real-world problem-solving
+- Contributing to open source
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💌 LET'S CONNECT THROUGH CODE
+
+Have a cool idea? Found something interesting? Building something of your own?
+
+**I'm always happy to explore new ideas and learn from other developers.**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-493D59?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhat2501)
+[![Repositories](https://img.shields.io/badge/PROJECTS-DB7093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhat2501?tab=repositories)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FEF3C7,35:D1FAE5,70:E9D5FF,100:FFE4E6&height=130&section=footer&text=keep%20creating%20%2F%20keep%20growing&fontSize=22&fontColor=493D59&animation=twinkling" />
+
+<sub>Made with curiosity, caffeine, and a little bit of ✿</sub>
 
 </div>
