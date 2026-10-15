@@ -43,6 +43,8 @@
 </tr>
 </table>
 
+---
+
 ## 02 / Tech Stack
 
 <table width="100%">
@@ -51,21 +53,24 @@
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend technologies"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend stack"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" alt="Backend technologies"/>
 
 <br/><br/>
 
-**Frontend**  
+**Frontend**
+
 HTML · CSS · JavaScript · React · Tailwind CSS
 
-**Backend**  
+**Backend**
+
 Node.js · Express.js
 
-**Database**  
+**Databases**
+
 MongoDB · SQL
 
 </td>
@@ -83,13 +88,16 @@ MongoDB · SQL
 
 <br/><br/>
 
-**Data Analysis**  
+**Data Analysis**
+
 NumPy · Pandas
 
-**Visualization**  
+**Visualization**
+
 Matplotlib · Seaborn
 
-**Modelling**  
+**Modelling**
+
 scikit-learn · Supervised Learning
 
 </td>
@@ -112,41 +120,38 @@ scikit-learn · Supervised Learning
 
 <div align="center">
 
-### 01 — WEB DEV
+### WEB DEVELOPMENT
 
-**Full-Stack & Frontend**
-
-<img src="https://img.shields.io/badge/REACT-263746?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/NODE.JS-263746?style=flat-square&logo=nodedotjs&logoColor=83CD8A"/>
-<img src="https://img.shields.io/badge/MONGODB-263746?style=flat-square&logo=mongodb&logoColor=83CD8A"/>
+<img src="https://img.shields.io/badge/FRONTEND-354A5F?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/BACKEND-354A5F?style=flat-square&logo=nodedotjs&logoColor=83CD8A"/>
 
 </div>
 
 ---
 
-**Repository 01 — Project Name**
+**01 — Project Name**
 
-Brief description of your application and the problem it solves.
+A short description of the application and the problem it solves.
 
 `React` `Node.js` `MongoDB`
 
-[View repository →](https://github.com/nikhat2501)
+[View repository →](https://github.com/nikhat2501?tab=repositories)
 
 ---
 
-**Repository 02 — Project Name**
+**02 — Project Name**
 
-Brief description of your next web development project.
+A short description of another web development project.
 
 `JavaScript` `Express.js`
 
-[View repository →](https://github.com/nikhat2501)
+[View repository →](https://github.com/nikhat2501?tab=repositories)
 
 ---
 
 <div align="center">
 
-[Explore all web projects →](https://github.com/nikhat2501?tab=repositories)
+[**Explore Web Repositories ↗**](https://github.com/nikhat2501?tab=repositories)
 
 </div>
 
@@ -155,41 +160,38 @@ Brief description of your next web development project.
 
 <div align="center">
 
-### 02 — MACHINE LEARNING
+### MACHINE LEARNING
 
-**Data & Intelligent Systems**
-
-<img src="https://img.shields.io/badge/PYTHON-263746?style=flat-square&logo=python&logoColor=FFD866"/>
-<img src="https://img.shields.io/badge/PANDAS-263746?style=flat-square&logo=pandas&logoColor=C6B7F5"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-263746?style=flat-square&logo=scikitlearn&logoColor=F0C68B"/>
+<img src="https://img.shields.io/badge/DATA-354A5F?style=flat-square&logo=python&logoColor=FFD866"/>
+<img src="https://img.shields.io/badge/MODELS-354A5F?style=flat-square&logo=scikitlearn&logoColor=F0C68B"/>
 
 </div>
 
 ---
 
-**Repository 01 — Project Name**
+**01 — Project Name**
 
-Brief description of the dataset, model, or prediction task.
+A short description of the dataset, model, or prediction task.
 
 `Python` `Pandas` `scikit-learn`
 
-[View repository →](https://github.com/nikhat2501)
+[View repository →](https://github.com/nikhat2501?tab=repositories)
 
 ---
 
-**Repository 02 — Project Name**
+**02 — Project Name**
 
-Brief description of your next data science or ML experiment.
+A short description of another data science experiment.
 
 `NumPy` `Matplotlib` `Seaborn`
 
-[View repository →](https://github.com/nikhat2501)
+[View repository →](https://github.com/nikhat2501?tab=repositories)
 
 ---
 
 <div align="center">
 
-[Explore all ML projects →](https://github.com/nikhat2501?tab=repositories)
+[**Explore ML Repositories ↗**](https://github.com/nikhat2501?tab=repositories)
 
 </div>
 
@@ -241,23 +243,33 @@ const developer = {
 
 ---
 
-## 05 / GitHub Statistics
+## 05 / GitHub Overview
 
 <div align="center">
 
 <a href="https://github.com/nikhat2501">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=E7EDF2&title_color=354A5F&icon_color=607D8B&text_color=34424D" alt="GitHub statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nikhat2501&show_icons=true&hide_border=true&bg_color=E7EDF2&title_color=354A5F&icon_color=607D8B&text_color=34424D&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/nikhat2501">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=E4EAE2&title_color=42644C&text_color=34483A" alt="Most used languages"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=202A36&ring=8DA8B8&fire=D8B778&currStreakLabel=E7EDF2&sideLabels=E7EDF2&dates=AEBCC7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhat2501&hide_border=true&background=202A36&ring=8DA8B8&fire=D8B778&currStreakLabel=E7EDF2&sideLabels=E7EDF2&dates=AEBCC7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+---
+
+## 06 / Languages Across My Repositories
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=10&hide_border=true&bg_color=E4EAE2&title_color=42644C&text_color=34483A&card_width=600" alt="Most used programming languages across repositories"/>
+
+<br/>
+
+<sub>Automatically generated from the languages detected in your public GitHub repositories.</sub>
 
 </div>
 
@@ -265,10 +277,10 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:697D86,50:354A5F,100:202A36&height=100&section=footer&text=BUILD%20SOMETHING%20USEFUL.&fontSize=24&fontColor=F1F2ED" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:697D86,50:354A5F,100:202A36&height=110&section=footer&text=BUILD%20SOMETHING%20USEFUL.&fontSize=24&fontColor=F1F2ED" alt="Footer banner"/>
 
 **Less scrolling through tutorials. More building.**
 
-[GitHub](https://github.com/nikhat2501) · [Repositories](https://github.com/nikhat2501?tab=repositories)
+[GitHub Profile](https://github.com/nikhat2501) · [All Repositories](https://github.com/nikhat2501?tab=repositories)
 
 </div>
