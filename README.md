@@ -1,184 +1,102 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:DFE9D5,45:F5E9E2,100:E5DDF2&text=nikhat2501&fontColor=635D57&fontSize=48&fontAlignY=40&desc=building%20things%20for%20the%20web%20%26%20exploring%20intelligent%20systems&descAlignY=65&descSize=13&animation=fadeIn" width="100%" alt="Sage, cream and lavender banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:3A3033,50:8E6B73,100:D8C1B7&text=nikhat2501&fontColor=FFF8F2&fontSize=48&fontAlignY=42&desc=building%20things%20for%20the%20web%20%26%20exploring%20intelligent%20systems&descAlignY=70&descSize=12" width="100%" />
 
 <br/>
 
-*creating, breaking, learning, repeating.*
+### creating, breaking, learning, repeating.
 
-`✿` &nbsp; WEB DEVELOPMENT &nbsp; · &nbsp; MACHINE LEARNING &nbsp; `✿`
+*ideas deserve implementation.*
 
-**ideas deserve implementation.**
+[![Profile Views](https://komarev.com/ghpvc/?username=nikhat2501&style=flat-square&color=8E6B73&label=PROFILE+VIEWS)](https://github.com/nikhat2501)
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td>
+## `01` — About Me
 
-## 🌿 &nbsp; a little about me
+```text
+A developer curious about how things work
+and stubborn enough to build them.
 
-I'm a developer who loves turning ideas into something real.
+Currently exploring:
+→ Web development
+→ Machine learning
+→ Ideas that deserve implementation
+```
 
-I enjoy building for the web, exploring machine learning, and learning through experimentation.
+I enjoy turning ideas into functional projects, experimenting with new technologies, and learning by building, breaking, and rebuilding things.
 
-✧ building projects one idea at a time
+---
 
-✧ exploring new technologies
+## `02` — Web Development
 
-✧ growing through every bug and breakthrough
+<div align="center">
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🌱 &nbsp; 01 — Web Development
-
-<sub>Thoughtful interfaces · Functional applications · Connected systems</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✿ Frontend
-
-![HTML](https://img.shields.io/badge/HTML-ECE0D7?style=flat-square&logo=html5&logoColor=8C6255)
-![CSS](https://img.shields.io/badge/CSS-ECE0D7?style=flat-square&logo=css3&logoColor=8C6255)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-EFE5C9?style=flat-square&logo=javascript&logoColor=79652D)
-![React](https://img.shields.io/badge/React-E0E9E7?style=flat-square&logo=react&logoColor=527C78)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-E0E9E7?style=flat-square&logo=tailwindcss&logoColor=527C78)
-
-</td>
-<td width="50%" valign="top">
-
-### ❀ Backend & Data
-
-![Node.js](https://img.shields.io/badge/Node.js-E2E9D9?style=flat-square&logo=nodedotjs&logoColor=536D43)
-
-![Express.js](https://img.shields.io/badge/Express.js-EAE5DE?style=flat-square&logo=express&logoColor=665D54)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-E2E9D9?style=flat-square&logo=mongodb&logoColor=536D43)
-
-![SQL](https://img.shields.io/badge/SQL-E7E2DA?style=flat-square&logo=postgresql&logoColor=6F6258)
-
-![Java](https://img.shields.io/badge/Java-EBDDD7?style=flat-square&logo=openjdk&logoColor=80594D)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### ♡ Tools I use
-
-![Git](https://img.shields.io/badge/Git-EBDDD7?style=flat-square&logo=git&logoColor=80594D)
-![GitHub](https://img.shields.io/badge/GitHub-EAE5DE?style=flat-square&logo=github&logoColor=665D54)
-
-</td>
-</tr>
-</table>
+**Building for the web, one component at a time.**
 
 <br/>
 
-<table>
-<tr>
-<td>
+![React](https://img.shields.io/badge/React-E8DED8?style=for-the-badge&logo=react&logoColor=49383C)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2E7CE?style=for-the-badge&logo=javascript&logoColor=51432E)
+![HTML5](https://img.shields.io/badge/HTML5-E8D2C9?style=for-the-badge&logo=html5&logoColor=734B42)
+![CSS3](https://img.shields.io/badge/CSS3-E0D9E8?style=for-the-badge&logo=css3&logoColor=594966)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-E0E8E6?style=for-the-badge&logo=tailwindcss&logoColor=365B58)
 
-**🌿 &nbsp; WEB PROJECT GARDEN**
+![Node.js](https://img.shields.io/badge/Node.js-DDE6D5?style=for-the-badge&logo=nodedotjs&logoColor=40543B)
+![Express.js](https://img.shields.io/badge/Express.js-E8DED8?style=for-the-badge&logo=express&logoColor=49383C)
+![MongoDB](https://img.shields.io/badge/MongoDB-DDE6D5?style=for-the-badge&logo=mongodb&logoColor=40543B)
+![SQL](https://img.shields.io/badge/SQL-E0E3ED?style=for-the-badge&logo=postgresql&logoColor=46516D)
+![Java](https://img.shields.io/badge/Java-E8D2C9?style=for-the-badge&logo=openjdk&logoColor=734B42)
 
-A collection of web applications, experiments, and ideas brought to life.
+![Git](https://img.shields.io/badge/Git-E8D2C9?style=for-the-badge&logo=git&logoColor=734B42)
+![GitHub](https://img.shields.io/badge/GitHub-E8DED8?style=for-the-badge&logo=github&logoColor=49383C)
 
-[Explore my web development repositories ↗](https://github.com/nikhat2501?tab=repositories)
+</div>
 
-</td>
-</tr>
-</table>
+---
+
+## `03` — Machine Learning
+
+<div align="center">
+
+**Exploring data, patterns, and intelligent systems.**
 
 <br/>
 
-## 🪻 &nbsp; 02 — Machine Learning
+![Python](https://img.shields.io/badge/Python-E0E3ED?style=for-the-badge&logo=python&logoColor=46516D)
+![NumPy](https://img.shields.io/badge/NumPy-E0E3ED?style=for-the-badge&logo=numpy&logoColor=46516D)
+![Pandas](https://img.shields.io/badge/Pandas-E0D9E8?style=for-the-badge&logo=pandas&logoColor=594966)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-DDE6D5?style=for-the-badge&logo=scikitlearn&logoColor=40543B)
 
-<sub>Working with data · Finding patterns · Exploring intelligent systems</sub>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E8DED8?style=for-the-badge&logo=plotly&logoColor=49383C)
+![Seaborn](https://img.shields.io/badge/Seaborn-E0E8E6?style=for-the-badge&logo=python&logoColor=365B58)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✿ Python & Data
-
-![Python](https://img.shields.io/badge/Python-E7E7D6?style=flat-square&logo=python&logoColor=68764B)
-
-![NumPy](https://img.shields.io/badge/NumPy-E2E7F0?style=flat-square&logo=numpy&logoColor=5B7196)
-
-![Pandas](https://img.shields.io/badge/Pandas-E9E0ED?style=flat-square&logo=pandas&logoColor=80658E)
-
-</td>
-<td width="50%" valign="top">
-
-### ❀ ML & Visualisation
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F1E4DC?style=flat-square&logo=scikitlearn&logoColor=96604E)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E7E2DA?style=flat-square&logo=plotly&logoColor=80685A)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-E4E8E8?style=flat-square&logo=python&logoColor=547C80)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### ♡ Areas I'm exploring
+<br/>
 
 `DATA PREPROCESSING` &nbsp; · &nbsp; `SUPERVISED LEARNING`
 
-</td>
-</tr>
-</table>
+</div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td>
-
-**🪻 &nbsp; THE ML GREENHOUSE**
-
-A dedicated space for data exploration, preprocessing, visualisation, and machine learning experiments.
-
-[Explore my machine learning repositories ↗](https://github.com/nikhat2501?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ☁️ &nbsp; 03 — My GitHub Languages
+## `04` — Languages & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&hide_border=true&bg_color=F6F5EF&title_color=788B70&text_color=716A68&langs_count=6" alt="Top programming languages"/>
-
-<sub>A small snapshot of the languages in my public repositories.</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhat2501&layout=compact&langs_count=8&hide_border=true&bg_color=1C1719&title_color=D8B9BD&text_color=F4EAE5&border_radius=12" alt="Most used programming languages" />
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:DFE9D5,50:F5E9E2,100:E5DDF2&text=keep%20growing%20%26%20creating&fontColor=635D57&fontSize=20" width="100%" alt="Keep growing and creating"/>
+### a little progress, every day.
 
-*creating, breaking, learning, repeating.*
+*Build with curiosity. Learn with intention. Ship with purpose.*
 
-**ideas deserve implementation.** ♡
+<sub>designed with ☕ and a little curiosity.</sub>
 
 </div>
